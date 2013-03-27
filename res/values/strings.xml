@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UCAD</string>
+    <string name="date_">Date:</string>
+    <string name="location_">Location:</string>
+    <string name="name_">Name:</string>
+</resources>
